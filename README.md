@@ -1,0 +1,2 @@
+# DeleteNodeDoubleLinkedList_HeadList
+C语言实现删除带头结点尾结点的双向非循环链表中的一个节点
