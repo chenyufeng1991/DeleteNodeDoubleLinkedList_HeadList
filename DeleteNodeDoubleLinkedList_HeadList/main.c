@@ -150,26 +150,7 @@ int main(int argc, const char * argv[]) {
 
     DeleteValueList(pHead, pTail, 5);
     PrintList(pHead, pTail);
-    
+
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
